@@ -38,8 +38,10 @@ ENV/
 *.swo
 
 # Project specific
-input_docs/
-analysis_results/ 
+input_docs/*
+!input_docs/.gitkeep
+analysis_results/*
+!analysis_results/.gitkeep
 
 backup/*
 
