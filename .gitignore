@@ -40,6 +40,7 @@ ENV/
 # Project specific
 input_docs/*
 !input_docs/.gitkeep
+!input_docs/01 - Clavier v Our Lady of the Lake Hosp Inc.docx
 analysis_results/*
 !analysis_results/.gitkeep
 
